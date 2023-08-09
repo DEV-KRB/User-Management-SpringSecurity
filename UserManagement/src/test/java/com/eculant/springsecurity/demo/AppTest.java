@@ -18,7 +18,6 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-    }
 
     /**
      * @return the suite of tests being tested
